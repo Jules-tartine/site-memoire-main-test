@@ -46,9 +46,15 @@ $memoire = json_decode($data, true);
 <nav id="menu-principal">
     <ul>
         <?php
+        $counter = 0;
         if(isset($memoire["menu_principal"])){
             foreach($memoire["menu_principal"] as $menuItem){
-                echo '<li><a href="#" data-page="'. $menuItem["pageId"] .'">'. $menuItem["title"] .'</a></li>';
+                if ($counter === 0) {
+                    echo '<a href="#" class="selected" data-page="'. $menuItem["pageId"] .'">'. $menuItem["title"] .'</a></li>';
+                } else {
+                    echo '<a href="#" data-page="'. $menuItem["pageId"] .'">'. $menuItem["title"] .'</a></li>';
+                }
+                $counter++;
             }
         }
         ?>

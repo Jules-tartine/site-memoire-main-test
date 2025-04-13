@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     window.addEventListener("scroll", function() {
         let scrollTop = window.scrollY;
-
+        console.log(scrollTop);
         if (scrollTop < lastScrollTop) {
             // Si on remonte, on affiche le menu
             menu.classList.add("visible");
@@ -129,6 +129,15 @@ document.addEventListener("DOMContentLoaded", function() {
         }
 
         lastScrollTop = scrollTop;
+
+        // arrow
+        const arrow = document.getElementById('arrow');
+        if (scrollTop > 0) {
+            arrow.classList.remove('is-hidden');
+        } else {
+            arrow.classList.add('is-hidden');
+        }
+    
     });
 
 
@@ -155,8 +164,6 @@ document.addEventListener("DOMContentLoaded", function() {
             body.classList.add('no-scroll');
         })
 })
-
-
 });
 
 
