@@ -53,7 +53,7 @@ body {
 }
 
 
-#menu-principal a.selected, #menu-principal ul li:first-child a {
+#menu-principal a.selected {
     color: #fff;
     background-color: rgba(255, 64, 129, 0.8);
 }
