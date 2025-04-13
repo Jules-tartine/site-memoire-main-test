@@ -37,8 +37,7 @@
             </div>
 
     </div>
-  <div class="arrow" style="@media screen and (max-width: 1400px) {.arrow {
-            opacity: 0;}}">↓</div>
+  <div id="arrow">↓</div>
 <div> 
 <div> 
 <br>
@@ -82,6 +81,20 @@ Faisant le lien entre la technologie et l’écologie, ce travail de recherche e
                 
             })
             .catch(error => console.error('Error fetching JSON:', error));
+
+            // arrow
+            window.addEventListener("scroll", function() {
+                let scrollTop = window.scrollY;
+                console.log(scrollTop);
+                // arrow
+                const arrow = document.getElementById('arrow');
+                if (scrollTop > 100) {
+                    arrow.classList.add('is-hidden');
+                } else {
+                    arrow.classList.remove('is-hidden');
+                }
+            
+            });
 
     </script>
    

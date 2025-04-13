@@ -23,7 +23,7 @@ body {
 /* Menu principal */
 #menu-principal {
     background: var(--pink-main);
-    padding: 8px;
+    padding: 6px;
 }
 
 #menu-principal {
@@ -49,10 +49,11 @@ body {
 #menu-principal a{
     display: block;
     border-radius: 5px;
+    padding: 4px 8px;
 }
 
 
-#menu-principal a.selected {
+#menu-principal a.selected, #menu-principal ul li:first-child a {
     color: #fff;
     background-color: rgba(255, 64, 129, 0.8);
 }
@@ -285,7 +286,7 @@ color: var(--dark-main);
 
 #home-button {
     position: fixed;
-    top: 8px;
+    top: 13px;
     left: 25px;
     background-color: var(--pink-main);
     color: white;
@@ -526,8 +527,11 @@ height: 100px;
 
 #toc li{
     list-style-type: none;
-    padding-left: 40px;
-    
+    padding-left: 40px;    
+}
+#toc li a{
+    color: var(--pink-main);
+    text-decoration: none;
 }
 
 #toc li.page-link{
@@ -535,12 +539,19 @@ height: 100px;
     padding-left: 0px;
     margin-bottom: 15px;
     font-size: 1.5em;
-
-   
-
 }
 
-.arrow {
+#toc li.page-link a{
+    color: var(--pink-main);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#toc li.page-link a:hover, #toc li a:hover{
+    text-decoration: underline;
+}
+
+#arrow {
     position: fixed;
     color: var(--pink-main);
     top: 30vh;
@@ -551,8 +562,11 @@ height: 100px;
     font-size: 100px;
     z-index: 10;
     font-weight: 300;
-    opacity: 1; /* Opacité par défaut */
     transition: opacity 0.2s; /* Effet fluide pour la transition de l'opacité */
+}
+
+.is-hidden{
+    opacity: 0;
 }
 
 @media screen and (max-width: 1400px) {
