@@ -1,0 +1,327 @@
+{
+    "menu_principal": [
+      {
+        "title": "Introduction",
+        "pageId": "page0"
+      },
+
+      {
+        "title": "Provide an ecological practice of our technological devices",
+        "pageId": "page1"
+      },
+      {
+        "title": "Conclusion",
+        "pageId": "page2"
+      }
+  
+    ],
+
+    
+  
+    
+  
+  
+  
+    "pages": [
+      {
+        "id": "page0",
+        "title": "Ecological settings ",
+        "parts": [
+          {
+            "title": "Intro",
+            "references": [
+  
+              {
+                "valeur": "Frédéric Bordage, 2019, ed. Buchet Chastel : Sobriété numérique : les clés pour agir. (Digital Sobriety : keys ot action)."
+              }
+  
+  
+            ],
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Introduction"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "For most of us, using our smartphone is the first thing we do at the start of a new day. Snooze the alarm, check the notifications, see if we are late… And during the day, this device rules our everyday life. It can be used as a subway card, a credit card, a map, a phone, a flashlight, a TV … Sometimes it’s even hard to see the actual limit of this marvellous technological object. And in less than 30 years, like the car reshaped our cities, the smartphone changed our way to perceive distance, relations, and communication … \n\nThe smartphone really seems like a divine artefact that we, humans, have the chance to approach. So useful, so powerful, and yet so easy to use. All of this can work thanks to the settings.\n\nSettings are present in every smartphone OS (Operational System). Even if it can take different names depending on the smartphone’s brand (it’s most obvious in French with the difference between “Paramètre” et “Réglage”, which can be translated as “Settings”) settings are very similar and take the same form. A pre-downloaded app that you can use without condition. There are a lot of settings. Sometimes highlighted, like the Wi-Fi, the Bluetooth, or the phone brightness, but sometimes, they are hidden very deep, into a forgotten layer of the app (for example, some smartphones have settings that you can adjust in case of an earthquake)."
+              },
+        
+              {
+                "type": "texte",
+                "valeur": "Technically, the setting is a variable, a number between a minimum and a maximum, which can be changed by the user. The degree of possibility depends on the settings. For example, setting a password has infinite possibilities, but closed notifications for an app have only two choices: yes or no.\n\nAll of the great things that our smartphones allow can make us tend to forget that it's a technological object. A mass-produced artefact, created with precious and very polluting resources like rare metals, and with a very high carbon-footprint and environmental impact. In France, the digital/technological field represents 2.5% of the C02 produced in a year++1++. A number which is very devalued when we know that we don’t create the biggest majority of our device. Knowing the fact that 80% of the carbon-footprint is produced during the creation, fabrication of raw material extraction, the 2.5% don’t really show the ecological impact of this object."
+              },
+
+              {
+                "type": "texte",
+                "valeur": "Faced with this ecological challenge, some are raising their voices. *Limites Numériques* (Digital Limitation) is a French research-through-design focused on the environmental impact of the digital field. Through design methods and creations, they tend to measure, understand, prevent, make others learn and try to create a more eco-friendly way to use and perceive our digitals artefacts.\n\nMy work as a research-through-design is the continuity of a study undertaken by *Limites Numériques* on smartphone settings. This abstract is the synthesis of my experimentation, research, fieldwork and interviews realized in collaboration with *Limites Numérique*, with the goal of understanding and offering a more eco-friendly way to perceive and use our smartphones."
+              },
+
+              {
+                "type": "texte",
+                "valeur": "<a href=\"#\" class=\"change-part\">Change part</a>"
+              }
+             
+  
+  
+  
+            ]
+          }
+
+        ]
+    },
+  
+    {
+        "id": "page1",
+        "title": "Provide an ecological practice of our technological devices",
+        "parts": [
+  
+          {
+          
+        
+            "title": "Setting’s shape and structure",
+           
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Setting’s shape and structure"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "The first step of this research about settings was to really understand what settings really are. As we previously see, it’s a variable, located between a maximum and a minimum. But the word settings also mean the application, the digital place where you, the user, can modify those values. So, I studied the settings as a “place”.\n\nSettings are what we can call a “drill-down structure”. We call this drill-down because, in order to find an element, you have to go into another element, which can also be located in another element… creating deepness in our structure. The user has to drill in the structure in order to find what he searches for.\n\nThis type of structure can be provided to have a ridiculously high number of elements in a single app, but to the detriment of losing simplicity. Because when a setting is located inside of a setting, inside of setting … up to 8 times, it’s obviously hard to find. And this observation make me realise that it’s probably well known by the designer of the settings app. And, with more observation off some details, it make me realized something:"
+              },
+
+              {
+                "type": "image",
+                "valeur": "images/abs/abs-0.png",
+                "alt": " Opened smartphone",
+                "legende": ""
+              }
+
+            ]
+          },
+  
+          {
+            "title": "Closed object and default value",
+  
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Closed object and default value"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "A “closed” or “open” object is a concept created by Gilbert Simondon. A closed object defines an object that offers no opening and keeps its function hidden. The smartphone is one of the best examples of closed objects. With his smooth border and his flat screen, we can’t see how he works. You can’t see all the different pieces inside or how they work together. And this can also work not only with the smartphone as an object, but also in his way of using it. The settings are the link between the technical capacity of the smartphone and his user. And it appears that even the settings are “closed”. Because, except some highlighted settings, those located in the Control Center of our smartphones, the others are quite hidden, with various methods.\n\nWith the help of *Limites Numériques*, we observe that some settings are hidden thanks to their names. For example, in the Android’s settings, what we often call “night mode” (Mode Nuit) or “Sleep mode” (Mode Sommeil) is called “In bed mode” (Mode Coucher). This little shift makes this setting way more hard to find, because when you search “Night mode” in the search bar, nothing appears. This also works the “screen time” (temps d’écran) located in the “Parental control and Digital well-being” (Contrôle Parentale est bien-être numérique) setting, and never called “screen time”.\n\nThe other main reason why we can say that settings are closed is the default value. Every setting value must start somewhere between the minimum and the maximum. default value is the first value of the setting, before the user changes it if he wants. Because of the default value already present and chosen not by himself, the user doesn't know a lot of information about his own device. The default value makes the user passive, unconsciously accepting the “closure” of his smartphone."
+              }
+  
+            ]
+          },
+
+          {
+            "title": "Performance-oriented",
+  
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Performance-oriented"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "The smartphone and its settings seems to be “closed”, and doesn't really want to show to his user the technical function of the artefact. To understand why the smartphone is closed, by its shape and by its settings, we have to understand the main issue with the default value.\n\nAfter analysing the default value off the settings, while I was referring to the already started work of *Limites Numérique*, we came to this conclusion: the default value is performance-oriented."
+              },
+
+              {
+                "type": "texte",
+                "valeur": "\nThe first value of most of the settings, before the user chose to change it, are performance-oriented, meaning that those values are at their maximum, in order to make the smartphone as performant as he can. And this can be understandable because when we buy a phone, it’s for what he can do, his technical capacity, and it can be strange to turn off those when we start using our smartphone. But this is forgetting again that smartphones are technological devices. And if we always use a device at its peak performance, it will age faster than if we use it more moderately.\n\n A performance-oriented smartphone accelerates his cycle of life, making it grow old faster than we need. Because we don’t need our smartphone to be at 100% of its capacity every time we use it, or even when we don’t use it. Like we saw previously, 80% of the environmental impact of a smartphone is produced during his fabrication."
+              },
+
+              {
+                "type": "image",
+                "valeur": "images/abs/abs-1.png",
+                "alt": " Smartphone’s cycles",
+                "legende": " Smartphone’s cycles, personal realisation. The shorter the use cycle, the more the production cycle is used"
+              },
+
+              {
+                "type": "texte",
+                "valeur": "\nThe first value of most of the settings, before the user chose to change it, are performance-oriented, meaning that those values are at their maximum, in order to make the smartphone as performant as he can. And this can be understandable because when we buy a phone, it’s for what he can do, his technical capacity, and it can be strange to turn off those when we start using our smartphone. But this is forgetting again that smartphones are technological devices. And if we always use a device at its peak performance, it will age faster than if we use it more moderately.\n\n A performance-oriented smartphone accelerates his cycle of life, making it grow old faster than we need. Because we don’t need our smartphone to be at 100% of its capacity every time we use it, or even when we don’t use it. Like we saw previously, 80% of the environmental impact of a smartphone is produced during his fabrication."
+              }
+  
+            ]
+          },
+
+          {
+            "title": "Setting’s use and ecological practice",
+            "references": [
+  
+              {
+                "valeur": "This definition comes from Michel de Certeau, 1990, ed. Gallimard, L’invetion du quotidien (The invention of daily life)"
+              }
+  
+  
+            ],
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Setting’s use and ecological practice"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "First of all, the use of something is the way in which something is used, including a personal aspect++1++. The use of something depends on each individual. And two people can have a different use of the same things.It’s hard to find data about the use of the settings, and how people understand the settings. \n\nSo, if finding data is hard and often not possible if the topic is too specific, I chose to create my own data. And for that, I use two methods.\n\nThe first way to gather data was by a series of interviews. After creating a list of questions about the perception and the use of smartphone’s settings, I ask different people from different work fields: design student and class mates, acquaintances working in national education and various salarymen and women working in a digital communication agency. Even if this audience needs to be extended in order to have a better and more global understanding, those interviews were my biggest source of data."
+              },
+
+              {
+                "type": "image",
+                "valeur": "images/abs/abs-2.jpg",
+                "alt": " Interview synthesis about the temporality of settings",
+                "legende": "Interview synthesis about the temporality of settings"
+              },
+
+              {
+                "type": "image",
+                "valeur": "images/abs/abs-3.jpg",
+                "alt": " Interview synthesis about the issues of hidden notifications",
+                "legende": "Interview synthesis about the issues of hidden notifications"
+              },
+
+              {
+                "type": "texte",
+                "valeur": "The other way to have a better understanding of the setting’s use was through experimentation.\n\nI give 2 people, Théa, 22 years old, design student and classmate, and Valentine, 24 years old, project chief in a work-study program, a list of rules to follow about settings during 7 days.\n\nThéa had to follow them every day, without knowing what was the change, and Valentine had to change her setting depending on the time and the activity she was doing during the day.\n\nThese 2 tests follow the same 2 step process: first the experimentation, were the “subject”was taking notes about his tests, and then a review with me, to talk and synthesize what happened during the experimentation. Even if the data wasn’t the same depending on if it came from the interviews or the tests (experimentation’s data were more personal for example), those data illustrate two major things.\n\nFirst of all, it seems that the current smartphone use, for the majority of the user, is the default use. Not a lot of people use “advanced setting”, those who you really need to dig in order to find it.And this makes a lot of sense with the device “closure”."
+              },
+
+              {
+                "type": "texte",
+                "valeur": "I also realise that the use of the smartphone is overwhelmingly driven by personal desire. We use our smartphones like we want, and that’s it. The only case of “usage principle” seen during the interviews and test was about “disconnection”, using less of our smartphone for our mental safety, or about privacy issues: how not to be spied on. But except for those very rare cases, people don’t seem to follow a real practice, and less of an ecological practice."
+              },
+
+              {
+                "type": "texte",
+                "valeur": "Practice is very linked to use, but opposite in a way. The practice of something is a use of something, but a standardized use, with an established purpose. For example, people who drive a car have safety practices. They follow a set of pre established rules who have a safety goal.\n\nThe smartphone default value makes the practice of the phone a performance-based practice. We use our phone in order to have the most powerful device. But it’s really hard to say that most of the people have a performance-based practice, because the user often doesn't know about all of this. A practice, in order to be a practice, must be known.\n\n A practice can have for a goal a more eco-friendly way to use our technological and digital device, like the smartphone. And this is the real definition of the ecological settings. The ecological setting is a means of achieving a more eco-friendly use, by creating an ecological practice. He guides, informs and makes the user understand the issues of the performance-based default value, and offer to him a solution. The ecological is a means to an end, not an end itself. He must make the user learn and act, because a change can occur if he’s not desired."
+              }
+  
+            ]
+          },
+
+        
+
+          {
+            "title": "Design solutions",
+"references": [
+  
+              {
+                "valeur": "*Limites Numériques*, Pistes pour un design écologique des paramètre (Design leads for eco-friendly settings)"
+              }
+  
+  
+            ],
+
+
+            
+            "contenu": [
+  
+              {
+                "type": "texte",
+                "valeur": "Design solutions"
+              },
+  
+              {
+                "type": "texte",
+                "valeur": "The ecological setting is a concept that needs a form through design. In order to create solutions, I started to follow two creative leads. Those leads come from my own work and *Limites Numériques* leads++1++. The first lead is to create another default value. Rebuild the smartphone, erase the actual default value in order to make the smartphone ecological-oriented. One of the leads was to create a “settings onboarding”, where the user can learn and apply change to his phone.\n\nThe other lead was about temporality and activities. Smartphones don’t need the same level of performance depending on how you use them. It’s understandable to have a very performant smartphone when you are using it to work, but it’s less when you are sleeping. The goal is to make the user adapt by himself the performance of his smartphone depending on what he’s doing with it (or not). For that, one of the leads is to make it create a profile, settings-preset he can apply during the day. The user will, firstly, create the profile and learn about the environmental issues, and then apply the profile.All of these ideas need to be developed, and are at the time in the wireframe stage. And this will be a great opportunity to develop during the project stage."
+              },
+
+              {
+                "type": "image",
+                "valeur": "images/abs/abs-4.png",
+                "alt": "Design idead arrange into a chart",
+                "legende": "Example of a design solution. In this chart, all the proposals follow the default value approach. [Link to the chart](https://www.figma.com/design/1EPcsO9Q2aJuQQTo5Y2H3b/D.S-Pistes-Cr%C3%A9a.?node-id=196-336&t=HGau5qOggYjLSFbq-0) "
+              },
+
+              {
+                "type": "texte",
+                "valeur": "<a href=\"#\" class=\"change-part\">Change part</a>"
+              }
+
+           
+            ]
+        }
+
+      ]
+  },
+
+
+  {
+    "id": "page2",
+    "title": "Conclusion ",
+    "parts": [
+      {
+        "title": "Intro",
+    
+        "contenu": [
+
+          {
+            "type": "texte",
+            "valeur": ""
+          },
+
+          {
+            "type": "texte",
+            "valeur": "This dissertation highlighted some issues with our actual use of digital devices and technologies. In order to have a more eco-friendly approach, we must understand how they work. Understanding is the key to change. If the change is not understood and desired, it will always appear forced and violent. The ecological settings must be pedagogic, and help the user to understand the ongoing issues. We must open the smartphone\n\nThis design research project shows that evolution is possible. Through learning and action, we can have an impact on a system that might seem much larger than ourselves. The ecological setting is a change that, through collective practice, can move us toward a more responsible digital world."
+          }
+
+
+        ]
+      }
+
+
+
+          
+
+          
+
+
+
+
+
+        ]
+      }
+  
+  
+  
+  
+  
+  
+  
+  
+     
+  
+          
+  
+  
+  
+  
+  
+     
+  
+             
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    ]
+  }
+  
